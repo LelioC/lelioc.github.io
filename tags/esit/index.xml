@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ESIT on Lélio Chetot</title>
-    <link>/tags/esit/</link>
+    <link>https://lelioc.github.io/tags/esit/</link>
     <description>Recent content in ESIT on Lélio Chetot</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 19 Apr 2019 17:51:44 +0100</lastBuildDate>
     
-	<atom:link href="/tags/esit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lelioc.github.io/tags/esit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ESIT 2019</title>
-      <link>/posts/esit/</link>
+      <link>https://lelioc.github.io/posts/esit/</link>
       <pubDate>Fri, 19 Apr 2019 17:51:44 +0100</pubDate>
       
-      <guid>/posts/esit/</guid>
+      <guid>https://lelioc.github.io/posts/esit/</guid>
       <description>&lt;p&gt;I have attended my first European School of Information Theory (ESIT) in Sophia-Antipolis.&lt;/p&gt;</description>
     </item>
     

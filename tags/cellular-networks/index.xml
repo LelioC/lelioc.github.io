@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cellular networks on Lélio Chetot</title>
-    <link>/tags/cellular-networks/</link>
+    <link>https://lelioc.github.io/tags/cellular-networks/</link>
     <description>Recent content in cellular networks on Lélio Chetot</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 07 Jun 2019 17:51:57 +0100</lastBuildDate>
     
-	<atom:link href="/tags/cellular-networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lelioc.github.io/tags/cellular-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fundamental Limits in Cellular Networks with Point Process Partial Area Statistics</title>
-      <link>/publications/2019/wiopt/</link>
+      <link>https://lelioc.github.io/publications/2019/wiopt/</link>
       <pubDate>Fri, 07 Jun 2019 17:51:57 +0100</pubDate>
       
-      <guid>/publications/2019/wiopt/</guid>
+      <guid>https://lelioc.github.io/publications/2019/wiopt/</guid>
       <description>&lt;p&gt;I presented my very first paper at the IEEE WiOpt 2019 conference in Avignon.&lt;/p&gt;</description>
     </item>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Lélio Chetot</title>
-    <link>/</link>
+    <link>https://lelioc.github.io/</link>
     <description>Recent content in Home on Lélio Chetot</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 15 Jan 2020 11:36:29 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lelioc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://lelioc.github.io/about/</link>
       <pubDate>Wed, 15 Jan 2020 18:26:38 +0100</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://lelioc.github.io/about/</guid>
       <description>Hello ! My name is Lélio Chetot and I&#39;m a PhD student at Inria.
 I work at CITI lab in the Inria team MARACAS1
 Under the supervision of Prof. Jean-Marie Gorce and Dr. Malcolm Egan, I work on detection algorithms in non-coherent multiple access channel using probability, detection and information theories.
@@ -26,37 +26,37 @@ You can contact me using my email (name.lastname@inria.fr).
     
     <item>
       <title>Détecteur pour l&#39;accès aléatoire massif entre machines avec connaissance statistique du canal en lien ascendant</title>
-      <link>/publications/2019/gretsi/</link>
+      <link>https://lelioc.github.io/publications/2019/gretsi/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/publications/2019/gretsi/</guid>
+      <guid>https://lelioc.github.io/publications/2019/gretsi/</guid>
       <description>&lt;p&gt;I went to the French signal processing colloquium as a co-author of a paper about &amp;ldquo;Random access coding in Multiple Access Network&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Coded random access for massive MTC under statistical channel knowledge</title>
-      <link>/publications/2019/spawc/</link>
+      <link>https://lelioc.github.io/publications/2019/spawc/</link>
       <pubDate>Fri, 05 Jul 2019 17:52:12 +0100</pubDate>
       
-      <guid>/publications/2019/spawc/</guid>
+      <guid>https://lelioc.github.io/publications/2019/spawc/</guid>
       <description>&lt;p&gt;This paper has been presented at the IEEE SPAWC 2019 conference in Marrakech by Diane Duchemin.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Fundamental Limits in Cellular Networks with Point Process Partial Area Statistics</title>
-      <link>/publications/2019/wiopt/</link>
+      <link>https://lelioc.github.io/publications/2019/wiopt/</link>
       <pubDate>Fri, 07 Jun 2019 17:51:57 +0100</pubDate>
       
-      <guid>/publications/2019/wiopt/</guid>
+      <guid>https://lelioc.github.io/publications/2019/wiopt/</guid>
       <description>&lt;p&gt;I presented my very first paper at the IEEE WiOpt 2019 conference in Avignon.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ESIT 2019</title>
-      <link>/posts/esit/</link>
+      <link>https://lelioc.github.io/posts/esit/</link>
       <pubDate>Fri, 19 Apr 2019 17:51:44 +0100</pubDate>
       
-      <guid>/posts/esit/</guid>
+      <guid>https://lelioc.github.io/posts/esit/</guid>
       <description>&lt;p&gt;I have attended my first European School of Information Theory (ESIT) in Sophia-Antipolis.&lt;/p&gt;</description>
     </item>
     

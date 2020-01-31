@@ -2,155 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lélio Chetot</title>
-    <link>/tags/</link>
+    <link>https://lelioc.github.io/tags/</link>
     <description>Recent content in Tags on Lélio Chetot</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 29 Aug 2019 17:52:21 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lelioc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019</title>
-      <link>/tags/2019/</link>
+      <link>https://lelioc.github.io/tags/2019/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/tags/2019/</guid>
+      <guid>https://lelioc.github.io/tags/2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gretsi</title>
-      <link>/tags/gretsi/</link>
+      <link>https://lelioc.github.io/tags/gretsi/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/tags/gretsi/</guid>
+      <guid>https://lelioc.github.io/tags/gretsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ieee</title>
-      <link>/tags/ieee/</link>
+      <link>https://lelioc.github.io/tags/ieee/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/tags/ieee/</guid>
+      <guid>https://lelioc.github.io/tags/ieee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mac</title>
-      <link>/tags/mac/</link>
+      <link>https://lelioc.github.io/tags/mac/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/tags/mac/</guid>
+      <guid>https://lelioc.github.io/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mMTC</title>
-      <link>/tags/mmtc/</link>
+      <link>https://lelioc.github.io/tags/mmtc/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/tags/mmtc/</guid>
+      <guid>https://lelioc.github.io/tags/mmtc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random access</title>
-      <link>/tags/random-access/</link>
+      <link>https://lelioc.github.io/tags/random-access/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/tags/random-access/</guid>
+      <guid>https://lelioc.github.io/tags/random-access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>URLLC</title>
-      <link>/tags/urllc/</link>
+      <link>https://lelioc.github.io/tags/urllc/</link>
       <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
       
-      <guid>/tags/urllc/</guid>
+      <guid>https://lelioc.github.io/tags/urllc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spawc</title>
-      <link>/tags/spawc/</link>
+      <link>https://lelioc.github.io/tags/spawc/</link>
       <pubDate>Fri, 05 Jul 2019 17:52:12 +0100</pubDate>
       
-      <guid>/tags/spawc/</guid>
+      <guid>https://lelioc.github.io/tags/spawc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cellular networks</title>
-      <link>/tags/cellular-networks/</link>
+      <link>https://lelioc.github.io/tags/cellular-networks/</link>
       <pubDate>Fri, 07 Jun 2019 17:51:57 +0100</pubDate>
       
-      <guid>/tags/cellular-networks/</guid>
+      <guid>https://lelioc.github.io/tags/cellular-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>noma</title>
-      <link>/tags/noma/</link>
+      <link>https://lelioc.github.io/tags/noma/</link>
       <pubDate>Fri, 07 Jun 2019 17:51:57 +0100</pubDate>
       
-      <guid>/tags/noma/</guid>
+      <guid>https://lelioc.github.io/tags/noma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stochastic geometry</title>
-      <link>/tags/stochastic-geometry/</link>
+      <link>https://lelioc.github.io/tags/stochastic-geometry/</link>
       <pubDate>Fri, 07 Jun 2019 17:51:57 +0100</pubDate>
       
-      <guid>/tags/stochastic-geometry/</guid>
+      <guid>https://lelioc.github.io/tags/stochastic-geometry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wiopt</title>
-      <link>/tags/wiopt/</link>
+      <link>https://lelioc.github.io/tags/wiopt/</link>
       <pubDate>Fri, 07 Jun 2019 17:51:57 +0100</pubDate>
       
-      <guid>/tags/wiopt/</guid>
+      <guid>https://lelioc.github.io/tags/wiopt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESIT</title>
-      <link>/tags/esit/</link>
+      <link>https://lelioc.github.io/tags/esit/</link>
       <pubDate>Fri, 19 Apr 2019 17:51:44 +0100</pubDate>
       
-      <guid>/tags/esit/</guid>
+      <guid>https://lelioc.github.io/tags/esit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>event</title>
-      <link>/tags/event/</link>
+      <link>https://lelioc.github.io/tags/event/</link>
       <pubDate>Fri, 19 Apr 2019 17:51:44 +0100</pubDate>
       
-      <guid>/tags/event/</guid>
+      <guid>https://lelioc.github.io/tags/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>poster</title>
-      <link>/tags/poster/</link>
+      <link>https://lelioc.github.io/tags/poster/</link>
       <pubDate>Fri, 19 Apr 2019 17:51:44 +0100</pubDate>
       
-      <guid>/tags/poster/</guid>
+      <guid>https://lelioc.github.io/tags/poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>school</title>
-      <link>/tags/school/</link>
+      <link>https://lelioc.github.io/tags/school/</link>
       <pubDate>Fri, 19 Apr 2019 17:51:44 +0100</pubDate>
       
-      <guid>/tags/school/</guid>
+      <guid>https://lelioc.github.io/tags/school/</guid>
       <description></description>
     </item>
     
