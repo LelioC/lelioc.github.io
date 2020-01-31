@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gretsi on Lélio Chetot</title>
+    <link>/tags/gretsi/</link>
+    <description>Recent content in gretsi on Lélio Chetot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Aug 2019 17:52:21 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/gretsi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Détecteur pour l&#39;accès aléatoire massif entre machines avec connaissance statistique du canal en lien ascendant</title>
+      <link>/publications/2019/gretsi/</link>
+      <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
+      
+      <guid>/publications/2019/gretsi/</guid>
+      <description>&lt;p&gt;I went to the French signal processing colloquium as a co-author of a paper about &amp;ldquo;Random access coding in Multiple Access Network&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

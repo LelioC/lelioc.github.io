@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ieee on Lélio Chetot</title>
+    <link>/tags/ieee/</link>
+    <description>Recent content in ieee on Lélio Chetot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Aug 2019 17:52:21 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/ieee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Détecteur pour l&#39;accès aléatoire massif entre machines avec connaissance statistique du canal en lien ascendant</title>
+      <link>/publications/2019/gretsi/</link>
+      <pubDate>Thu, 29 Aug 2019 17:52:21 +0100</pubDate>
+      
+      <guid>/publications/2019/gretsi/</guid>
+      <description>&lt;p&gt;I went to the French signal processing colloquium as a co-author of a paper about &amp;ldquo;Random access coding in Multiple Access Network&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Limits in Cellular Networks with Point Process Partial Area Statistics</title>
+      <link>/publications/2019/wiopt/</link>
+      <pubDate>Fri, 07 Jun 2019 17:51:57 +0100</pubDate>
+      
+      <guid>/publications/2019/wiopt/</guid>
+      <description>&lt;p&gt;I presented my very first paper at the IEEE WiOpt 2019 conference in Avignon.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
